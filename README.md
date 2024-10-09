@@ -1,2 +1,2 @@
 # TryHackMe-Writups
-This repository contains my write-ups for various Capture The Flag challenges on TryHackMe. Each write-up details my approach, techniques used, and solutions discovered. Feel free to explore and contribute!
+This repository contains my write-ups for various TryHackMe Capture The Flag (CTF) challenges. Each write-up includes detailed solutions and explanations to help you understand the approaches and techniques used. Whether you're a beginner or a seasoned pro, I hope these resources enhance your cybersecurity skills. Explore and learn!
